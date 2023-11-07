@@ -1,0 +1,14 @@
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/bin/Debug/net6.0/ReceivablesManagement.Data.deps.json
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/bin/Debug/net6.0/ReceivablesManagement.Data.runtimeconfig.json
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/bin/Debug/net6.0/ReceivablesManagement.Data.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/bin/Debug/net6.0/ReceivablesManagement.Data.pdb
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.csproj.AssemblyReference.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.AssemblyInfoInputs.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.AssemblyInfo.cs
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.csproj.CoreCompileInputs.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/refint/ReceivablesManagement.Data.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.pdb
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ReceivablesManagement.Data.genruntimeconfig.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/Debug/net6.0/ref/ReceivablesManagement.Data.dll

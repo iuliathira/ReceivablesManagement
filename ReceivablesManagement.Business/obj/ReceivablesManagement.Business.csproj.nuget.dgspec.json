@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/ReceivablesManagement.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/ReceivablesManagement.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/ReceivablesManagement.Business.csproj",
+        "projectName": "ReceivablesManagement.Business",
+        "projectPath": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/ReceivablesManagement.Business.csproj",
+        "packagesPath": "/Users/thiraiulia/.nuget/packages/",
+        "outputPath": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiraiulia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/ReceivablesManagement.Data.csproj": {
+                "projectPath": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/ReceivablesManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/ReceivablesManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/ReceivablesManagement.Data.csproj",
+        "projectName": "ReceivablesManagement.Data",
+        "projectPath": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/ReceivablesManagement.Data.csproj",
+        "packagesPath": "/Users/thiraiulia/.nuget/packages/",
+        "outputPath": "/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiraiulia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

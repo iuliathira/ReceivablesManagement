@@ -1,0 +1,15 @@
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/bin/Debug/net6.0/ReceivablesManagement.Business.deps.json
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/bin/Debug/net6.0/ReceivablesManagement.Business.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/bin/Debug/net6.0/ReceivablesManagement.Business.pdb
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/bin/Debug/net6.0/ReceivablesManagement.Data.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/bin/Debug/net6.0/ReceivablesManagement.Data.pdb
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.csproj.AssemblyReference.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.AssemblyInfoInputs.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.AssemblyInfo.cs
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.csproj.CoreCompileInputs.cache
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.csproj.CopyComplete
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/refint/ReceivablesManagement.Business.dll
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ReceivablesManagement.Business.pdb
+/Users/thiraiulia/Documents/TP24/ReceivablesManagement.Api/ReceivablesManagement.Business/obj/Debug/net6.0/ref/ReceivablesManagement.Business.dll
