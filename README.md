@@ -11,4 +11,6 @@
   Serilog
   EF Core 7
   FluentValidation
+  XUnit
   
+#I used EF in-memory db for ease of use. 
