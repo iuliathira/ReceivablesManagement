@@ -14,3 +14,5 @@
   XUnit
   
 #I used EF in-memory db for ease of use. 
+
+#Time spent: 8h
